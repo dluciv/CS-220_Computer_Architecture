@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project source="3.3.0" version="1.0">
+<project source="3.3.4" version="1.0">
   This file is intended to be loaded by Logisim-evolution (https://github.com/reds-heig/logisim-evolution).
 
   <lib desc="#Wiring" name="0">
@@ -152,10 +152,10 @@ end TCL_Generic;&#13;
     <tool lib="1" name="NOR Gate"/>
     <sep/>
     <tool lib="4" name="D Flip-Flop">
-      <a name="appearance" val="classic"/>
+      <a name="appearance" val="logisim_evolution"/>
     </tool>
     <tool lib="4" name="Register">
-      <a name="appearance" val="classic"/>
+      <a name="appearance" val="logisim_evolution"/>
     </tool>
   </toolbar>
   <circuit name="main">
@@ -166,59 +166,20 @@ end TCL_Generic;&#13;
     <a name="clabel" val=""/>
     <a name="clabelfont" val="SansSerif bold 16"/>
     <a name="clabelup" val="east"/>
-    <comp lib="0" loc="(130,190)" name="Constant">
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(130,220)" name="Constant"/>
-    <comp lib="0" loc="(130,340)" name="Constant">
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(140,140)" name="Pull Resistor">
-      <a name="pull" val="1"/>
-    </comp>
-    <comp lib="0" loc="(140,140)" name="Transistor">
-      <a name="facing" val="north"/>
-      <a name="type" val="n"/>
-    </comp>
-    <comp lib="0" loc="(140,270)" name="Transistor">
-      <a name="facing" val="south"/>
-    </comp>
-    <comp lib="0" loc="(140,290)" name="Transistor">
-      <a name="facing" val="north"/>
-      <a name="type" val="n"/>
-    </comp>
-    <comp lib="0" loc="(80,160)" name="Clock">
-      <a name="highDuration" val="10"/>
-      <a name="lowDuration" val="10"/>
-    </comp>
-    <comp lib="0" loc="(80,60)" name="Clock"/>
-    <comp lib="10" loc="(240,60)" name="Digital Oscilloscope"/>
-    <wire from="(100,160)" to="(100,280)"/>
-    <wire from="(100,160)" to="(120,160)"/>
-    <wire from="(100,280)" to="(110,280)"/>
-    <wire from="(100,90)" to="(100,160)"/>
-    <wire from="(100,90)" to="(240,90)"/>
-    <wire from="(110,250)" to="(110,280)"/>
-    <wire from="(110,250)" to="(120,250)"/>
-    <wire from="(110,280)" to="(110,310)"/>
-    <wire from="(110,310)" to="(120,310)"/>
-    <wire from="(130,190)" to="(140,190)"/>
-    <wire from="(130,220)" to="(140,220)"/>
-    <wire from="(130,340)" to="(140,340)"/>
-    <wire from="(140,140)" to="(180,140)"/>
-    <wire from="(140,180)" to="(140,190)"/>
-    <wire from="(140,220)" to="(140,230)"/>
-    <wire from="(140,270)" to="(150,270)"/>
-    <wire from="(140,290)" to="(150,290)"/>
-    <wire from="(140,330)" to="(140,340)"/>
-    <wire from="(150,270)" to="(150,280)"/>
-    <wire from="(150,280)" to="(150,290)"/>
-    <wire from="(150,280)" to="(180,280)"/>
-    <wire from="(180,120)" to="(180,140)"/>
-    <wire from="(180,120)" to="(240,120)"/>
-    <wire from="(180,150)" to="(180,280)"/>
-    <wire from="(180,150)" to="(240,150)"/>
-    <wire from="(80,160)" to="(100,160)"/>
-    <wire from="(80,60)" to="(240,60)"/>
+    <comp lib="1" loc="(190,60)" name="AND Gate"/>
+    <comp lib="1" loc="(290,60)" name="OR Gate"/>
+    <comp lib="1" loc="(400,60)" name="NOR Gate"/>
+    <comp lib="1" loc="(90,60)" name="NOT Gate"/>
+    <wire from="(120,40)" to="(140,40)"/>
+    <wire from="(120,80)" to="(140,80)"/>
+    <wire from="(190,60)" to="(200,60)"/>
+    <wire from="(220,40)" to="(240,40)"/>
+    <wire from="(220,80)" to="(240,80)"/>
+    <wire from="(290,60)" to="(300,60)"/>
+    <wire from="(320,40)" to="(340,40)"/>
+    <wire from="(320,80)" to="(340,80)"/>
+    <wire from="(400,60)" to="(410,60)"/>
+    <wire from="(50,60)" to="(60,60)"/>
+    <wire from="(90,60)" to="(100,60)"/>
   </circuit>
 </project>
