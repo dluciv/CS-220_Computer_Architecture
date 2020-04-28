@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="20.881cm" height="11.394cm" viewBox="1.419 0.656 22.300 12.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="16.750" y1="4.000" x2="15.880" y2="4.000" stroke="#000000" stroke-width="0.100" />
+<line x1="15.880" y1="3.500" x2="15.880" y2="4.500" stroke="#000000" stroke-width="0.300" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="15.880,4.000 15.120,3.500 15.120,4.500 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="15.880,4.000 15.120,3.500 15.120,4.500 "/>
+<line x1="15.120" y1="4.000" x2="14.250" y2="4.000" stroke="#000000" stroke-width="0.100" />
+<line x1="16.750" y1="5.500" x2="15.880" y2="5.500" stroke="#000000" stroke-width="0.100" />
+<line x1="15.880" y1="5.000" x2="15.880" y2="6.000" stroke="#000000" stroke-width="0.300" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="15.880,5.500 15.120,5.000 15.120,6.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="15.880,5.500 15.120,5.000 15.120,6.000 "/>
+<line x1="15.120" y1="5.500" x2="14.250" y2="5.500" stroke="#000000" stroke-width="0.100" />
+<line x1="16.750" y1="4.000" x2="16.750" y2="5.500" stroke="#000000" stroke-width="0.100" />
+<line x1="17.526" y1="4.750" x2="16.750" y2="4.750" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.138,5.000 17.638,4.750 17.138,4.500 "/>
+<line x1="14.526" y1="4.000" x2="13.750" y2="4.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="14.138,4.250 14.638,4.000 14.138,3.750 "/>
+<line x1="14.526" y1="5.500" x2="13.750" y2="5.500" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="14.138,5.750 14.638,5.500 14.138,5.250 "/>
+<line x1="9.000" y1="4.250" x2="9.750" y2="4.250" stroke="#000000" stroke-width="0.100" />
+<line x1="9.750" y1="3.500" x2="9.750" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<line x1="9.750" y1="3.750" x2="10.500" y2="3.250" stroke="#000000" stroke-width="0.100" />
+<line x1="9.750" y1="4.750" x2="10.500" y2="5.250" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="10.250,5.250 10.500,5.250 10.404,5.019 "/>
+<line x1="8.000" y1="4.250" x2="8.776" y2="4.250" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.388,4.500 8.888,4.250 8.388,4.000 "/>
+<line x1="10.431" y1="1.090" x2="10.431" y2="1.652" stroke="#000000" stroke-width="0.100" />
+<rect x="10.181" y="1.652" width="0.500" height="1.125" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="10.181" y="1.652" width="0.500" height="1.125" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="10.431" y1="2.777" x2="10.431" y2="3.340" stroke="#000000" stroke-width="0.100" />
+<text x="9.681" y="1.340"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
++</text>
+<line x1="10.500" y1="3.250" x2="11.526" y2="3.250" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.138,3.500 11.638,3.250 11.138,3.000 "/>
+<line x1="9.000" y1="6.250" x2="9.750" y2="6.250" stroke="#000000" stroke-width="0.100" />
+<line x1="9.750" y1="5.500" x2="9.750" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<line x1="9.750" y1="5.750" x2="10.500" y2="5.250" stroke="#000000" stroke-width="0.100" />
+<line x1="9.750" y1="6.750" x2="10.500" y2="7.250" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="10.250,7.250 10.500,7.250 10.404,7.019 "/>
+<line x1="8.000" y1="6.250" x2="8.776" y2="6.250" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.388,6.500 8.888,6.250 8.388,6.000 "/>
+<line x1="10.500" y1="7.250" x2="10.500" y2="7.625" stroke="#000000" stroke-width="0.100" />
+<line x1="10.000" y1="7.625" x2="11.000" y2="7.625" stroke="#000000" stroke-width="0.100" />
+<line x1="10.168" y1="7.812" x2="10.832" y2="7.812" stroke="#000000" stroke-width="0.100" />
+<line x1="10.335" y1="8.000" x2="10.665" y2="8.000" stroke="#000000" stroke-width="0.100" />
+<line x1="1.750" y1="4.250" x2="2.500" y2="4.250" stroke="#000000" stroke-width="0.100" />
+<line x1="2.500" y1="3.500" x2="2.500" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<line x1="2.500" y1="3.750" x2="3.250" y2="3.250" stroke="#000000" stroke-width="0.100" />
+<line x1="2.500" y1="4.750" x2="3.250" y2="5.250" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="3.000,5.250 3.250,5.250 3.154,5.019 "/>
+<line x1="3.250" y1="5.250" x2="3.250" y2="5.625" stroke="#000000" stroke-width="0.100" />
+<line x1="2.750" y1="5.625" x2="3.750" y2="5.625" stroke="#000000" stroke-width="0.100" />
+<line x1="2.917" y1="5.812" x2="3.583" y2="5.812" stroke="#000000" stroke-width="0.100" />
+<line x1="3.085" y1="6.000" x2="3.415" y2="6.000" stroke="#000000" stroke-width="0.100" />
+<line x1="1.750" y1="6.500" x2="1.750" y2="4.474" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="2.000,4.862 1.750,4.362 1.500,4.862 "/>
+<line x1="4.250" y1="1.000" x2="4.250" y2="1.562" stroke="#000000" stroke-width="0.100" />
+<rect x="4.000" y="1.562" width="0.500" height="1.125" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.000" y="1.562" width="0.500" height="1.125" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="4.250" y1="2.688" x2="4.250" y2="3.250" stroke="#000000" stroke-width="0.100" />
+<text x="3.500" y="1.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
++</text>
+<line x1="5.500" y1="3.250" x2="6.526" y2="3.250" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="6.138,3.500 6.638,3.250 6.138,3.000 "/>
+<line x1="4.000" y1="4.250" x2="4.750" y2="4.250" stroke="#000000" stroke-width="0.100" />
+<line x1="4.750" y1="3.500" x2="4.750" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.750" y1="3.750" x2="5.500" y2="3.250" stroke="#000000" stroke-width="0.100" />
+<line x1="4.750" y1="4.750" x2="5.500" y2="5.250" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.250,5.250 5.500,5.250 5.404,5.019 "/>
+<line x1="4.000" y1="6.500" x2="4.000" y2="4.474" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.250,4.862 4.000,4.362 3.750,4.862 "/>
+<line x1="3.250" y1="3.250" x2="5.500" y2="3.250" stroke="#000000" stroke-width="0.100" />
+<line x1="5.500" y1="5.250" x2="5.500" y2="5.625" stroke="#000000" stroke-width="0.100" />
+<line x1="5.000" y1="5.625" x2="6.000" y2="5.625" stroke="#000000" stroke-width="0.100" />
+<line x1="5.168" y1="5.812" x2="5.832" y2="5.812" stroke="#000000" stroke-width="0.100" />
+<line x1="5.335" y1="6.000" x2="5.665" y2="6.000" stroke="#000000" stroke-width="0.100" />
+<rect x="14.750" y="9.000" width="2.000" height="3.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="14.750" y="9.000" width="2.000" height="3.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.750" y="10.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<line x1="14.750" y1="9.000" x2="14.750" y2="12.000" stroke="#000000" stroke-width="0.100" />
+<line x1="2.000" y1="9.500" x2="3.000" y2="9.500" stroke="#000000" stroke-width="0.100" />
+<line x1="2.000" y1="11.500" x2="3.000" y2="11.500" stroke="#000000" stroke-width="0.100" />
+<line x1="8.500" y1="9.500" x2="9.500" y2="9.500" stroke="#000000" stroke-width="0.100" />
+<line x1="8.500" y1="11.500" x2="9.500" y2="11.500" stroke="#000000" stroke-width="0.100" />
+<line x1="13.750" y1="9.500" x2="14.750" y2="9.500" stroke="#000000" stroke-width="0.100" />
+<line x1="13.750" y1="11.500" x2="14.750" y2="11.500" stroke="#000000" stroke-width="0.100" />
+<line x1="5.000" y1="10.500" x2="6.000" y2="10.500" stroke="#000000" stroke-width="0.100" />
+<rect x="3.000" y="9.000" width="2.000" height="3.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="3.000" y="9.000" width="2.000" height="3.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="3.000" y1="9.000" x2="3.000" y2="12.000" stroke="#000000" stroke-width="0.100" />
+<text x="4.000" y="10.000"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<ellipse cx="5.000" cy="10.500" rx="0.250" ry="0.250" fill="#FFFFFF" stroke="none"  /><ellipse cx="5.000" cy="10.500" rx="0.250" ry="0.250" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="11.500" y1="10.500" x2="12.500" y2="10.500" stroke="#000000" stroke-width="0.100" />
+<line x1="16.750" y1="10.500" x2="17.750" y2="10.500" stroke="#000000" stroke-width="0.100" />
+<rect x="9.500" y="9.000" width="2.000" height="3.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="9.500" y="9.000" width="2.000" height="3.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="9.500" y1="9.000" x2="9.500" y2="12.000" stroke="#000000" stroke-width="0.100" />
+<text x="10.500" y="10.000"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+&amp;</text>
+<ellipse cx="11.500" cy="10.500" rx="0.250" ry="0.250" fill="#FFFFFF" stroke="none"  /><ellipse cx="11.500" cy="10.500" rx="0.250" ry="0.250" fill="none" stroke="#000000"  stroke-width="0.100" /><rect x="19.500" y="9.000" width="2.000" height="3.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.500" y="9.000" width="2.000" height="3.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="19.500" y1="9.000" x2="19.500" y2="12.000" stroke="#000000" stroke-width="0.100" />
+<line x1="18.750" y1="10.500" x2="19.500" y2="10.500" stroke="#000000" stroke-width="0.100" />
+<line x1="21.500" y1="10.500" x2="22.250" y2="10.500" stroke="#000000" stroke-width="0.100" />
+<line x1="22.000" y1="4.750" x2="21.043" y2="4.750" stroke="#000000" stroke-width="0.100" />
+<line x1="21.043" y1="4.250" x2="21.043" y2="5.250" stroke="#000000" stroke-width="0.300" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="21.043,4.750 20.207,4.250 20.207,5.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="21.043,4.750 20.207,4.250 20.207,5.250 "/>
+<line x1="20.207" y1="4.750" x2="19.250" y2="4.750" stroke="#000000" stroke-width="0.100" />
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="8.162cm" height="6.394cm" viewBox="5.200 0.906 13.362 7.300"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="7.250" cy="5.000" rx="1.000" ry="1.000" fill="#FFFFFF" stroke="none"  /><ellipse cx="7.250" cy="5.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="6.750" y1="4.500" x2="7.750" y2="4.500" stroke="#000000" stroke-width="0.100" />
+<line x1="7.250" y1="3.500" x2="7.250" y2="4.500" stroke="#000000" stroke-width="0.100" />
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 7.750,5.500 A 0.625,0.625 0 0,0 6.750,5.500 "/>
+<line x1="7.750" y1="5.500" x2="7.750" y2="6.500" stroke="#000000" stroke-width="0.100" />
+<line x1="6.500" y1="5.000" x2="8.000" y2="5.000" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.20,0.20"/>
+<line x1="5.750" y1="5.000" x2="6.500" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 7.500,5.750 A 0.250,0.250 0 1,0 7.000,5.750 "/>
+<line x1="5.250" y1="5.000" x2="5.901" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.513,5.250 6.013,5.000 5.513,4.750 "/>
+<line x1="7.250" y1="1.500" x2="7.250" y2="2.062" stroke="#000000" stroke-width="0.100" />
+<rect x="7.000" y="2.062" width="0.500" height="1.125" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.000" y="2.062" width="0.500" height="1.125" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="7.250" y1="3.188" x2="7.250" y2="3.750" stroke="#000000" stroke-width="0.100" />
+<text x="6.500" y="1.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
++</text>
+<line x1="7.750" y1="6.500" x2="7.750" y2="6.875" stroke="#000000" stroke-width="0.100" />
+<line x1="7.250" y1="6.875" x2="8.250" y2="6.875" stroke="#000000" stroke-width="0.100" />
+<line x1="7.418" y1="7.062" x2="8.082" y2="7.062" stroke="#000000" stroke-width="0.100" />
+<line x1="7.585" y1="7.250" x2="7.915" y2="7.250" stroke="#000000" stroke-width="0.100" />
+<line x1="7.250" y1="3.750" x2="8.276" y2="3.750" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="7.888,4.000 8.388,3.750 7.888,3.500 "/>
+<line x1="10.500" y1="4.500" x2="11.250" y2="4.500" stroke="#000000" stroke-width="0.100" />
+<line x1="11.250" y1="3.750" x2="11.250" y2="5.250" stroke="#000000" stroke-width="0.100" />
+<line x1="11.250" y1="4.000" x2="12.000" y2="3.500" stroke="#000000" stroke-width="0.100" />
+<line x1="11.250" y1="5.000" x2="12.000" y2="5.500" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.750,5.500 12.000,5.500 11.904,5.269 "/>
+<line x1="12.000" y1="5.500" x2="12.000" y2="5.875" stroke="#000000" stroke-width="0.100" />
+<line x1="11.500" y1="5.875" x2="12.500" y2="5.875" stroke="#000000" stroke-width="0.100" />
+<line x1="11.668" y1="6.062" x2="12.332" y2="6.062" stroke="#000000" stroke-width="0.100" />
+<line x1="11.835" y1="6.250" x2="12.165" y2="6.250" stroke="#000000" stroke-width="0.100" />
+<line x1="9.750" y1="4.500" x2="10.276" y2="4.500" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="9.888,4.750 10.388,4.500 9.888,4.250 "/>
+<line x1="12.000" y1="1.250" x2="12.000" y2="1.812" stroke="#000000" stroke-width="0.100" />
+<rect x="11.750" y="1.812" width="0.500" height="1.125" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="11.750" y="1.812" width="0.500" height="1.125" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="12.000" y1="2.938" x2="12.000" y2="3.500" stroke="#000000" stroke-width="0.100" />
+<text x="11.250" y="1.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
++</text>
+<line x1="12.000" y1="3.500" x2="13.026" y2="3.500" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="12.638,3.750 13.138,3.500 12.638,3.250 "/>
+</svg>
