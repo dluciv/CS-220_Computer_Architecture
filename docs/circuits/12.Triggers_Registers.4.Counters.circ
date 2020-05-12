@@ -152,10 +152,10 @@ end TCL_Generic;&#13;
     <tool lib="1" name="NOR Gate"/>
     <sep/>
     <tool lib="4" name="D Flip-Flop">
-      <a name="appearance" val="logisim_evolution"/>
+      <a name="appearance" val="classic"/>
     </tool>
     <tool lib="4" name="Register">
-      <a name="appearance" val="logisim_evolution"/>
+      <a name="appearance" val="classic"/>
     </tool>
   </toolbar>
   <circuit name="main">
@@ -166,6 +166,9 @@ end TCL_Generic;&#13;
     <a name="clabel" val=""/>
     <a name="clabelfont" val="SansSerif bold 16"/>
     <a name="clabelup" val="east"/>
+    <comp lib="0" loc="(100,80)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+    </comp>
     <comp lib="0" loc="(100,810)" name="Pin">
       <a name="appearance" val="NewPins"/>
     </comp>
@@ -196,6 +199,15 @@ end TCL_Generic;&#13;
       <a name="fanout" val="4"/>
       <a name="incoming" val="4"/>
     </comp>
+    <comp lib="0" loc="(360,170)" name="Splitter">
+      <a name="bit0" val="3"/>
+      <a name="bit1" val="2"/>
+      <a name="bit2" val="1"/>
+      <a name="bit3" val="0"/>
+      <a name="facing" val="north"/>
+      <a name="fanout" val="4"/>
+      <a name="incoming" val="4"/>
+    </comp>
     <comp lib="0" loc="(360,770)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
@@ -208,23 +220,13 @@ end TCL_Generic;&#13;
       <a name="output" val="true"/>
       <a name="width" val="4"/>
     </comp>
-    <comp lib="0" loc="(370,180)" name="Splitter">
-      <a name="appear" val="right"/>
-      <a name="bit0" val="3"/>
-      <a name="bit1" val="2"/>
-      <a name="bit2" val="1"/>
-      <a name="bit3" val="0"/>
-      <a name="facing" val="west"/>
-      <a name="fanout" val="4"/>
-      <a name="incoming" val="4"/>
-    </comp>
-    <comp lib="0" loc="(370,600)" name="Pin">
+    <comp lib="0" loc="(370,170)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="4"/>
     </comp>
-    <comp lib="0" loc="(380,180)" name="Pin">
+    <comp lib="0" loc="(370,600)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
@@ -245,9 +247,6 @@ end TCL_Generic;&#13;
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="4"/>
-    </comp>
-    <comp lib="0" loc="(70,60)" name="Pin">
-      <a name="appearance" val="NewPins"/>
     </comp>
     <comp lib="0" loc="(80,260)" name="Pin">
       <a name="appearance" val="NewPins"/>
@@ -319,10 +318,10 @@ end TCL_Generic;&#13;
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="4. С заданным начальным значением"/>
     </comp>
+    <wire from="(100,80)" to="(110,80)"/>
     <wire from="(100,810)" to="(120,810)"/>
     <wire from="(110,100)" to="(120,100)"/>
     <wire from="(110,540)" to="(110,560)"/>
-    <wire from="(110,60)" to="(110,80)"/>
     <wire from="(110,80)" to="(110,100)"/>
     <wire from="(110,80)" to="(120,80)"/>
     <wire from="(120,790)" to="(120,810)"/>
@@ -338,9 +337,9 @@ end TCL_Generic;&#13;
     <wire from="(160,520)" to="(180,520)"/>
     <wire from="(160,550)" to="(180,550)"/>
     <wire from="(160,80)" to="(170,80)"/>
-    <wire from="(170,100)" to="(170,170)"/>
+    <wire from="(170,100)" to="(170,140)"/>
     <wire from="(170,100)" to="(180,100)"/>
-    <wire from="(170,170)" to="(350,170)"/>
+    <wire from="(170,140)" to="(320,140)"/>
     <wire from="(170,280)" to="(170,300)"/>
     <wire from="(170,280)" to="(180,280)"/>
     <wire from="(170,300)" to="(230,300)"/>
@@ -358,9 +357,9 @@ end TCL_Generic;&#13;
     <wire from="(220,590)" to="(220,620)"/>
     <wire from="(220,620)" to="(250,620)"/>
     <wire from="(220,80)" to="(230,80)"/>
-    <wire from="(230,100)" to="(230,160)"/>
+    <wire from="(230,100)" to="(230,130)"/>
     <wire from="(230,100)" to="(240,100)"/>
-    <wire from="(230,160)" to="(350,160)"/>
+    <wire from="(230,130)" to="(330,130)"/>
     <wire from="(230,280)" to="(230,300)"/>
     <wire from="(230,580)" to="(230,600)"/>
     <wire from="(230,600)" to="(250,600)"/>
@@ -380,9 +379,9 @@ end TCL_Generic;&#13;
     <wire from="(280,600)" to="(300,600)"/>
     <wire from="(280,620)" to="(310,620)"/>
     <wire from="(280,80)" to="(290,80)"/>
-    <wire from="(290,100)" to="(290,150)"/>
+    <wire from="(290,100)" to="(290,120)"/>
     <wire from="(290,100)" to="(300,100)"/>
-    <wire from="(290,150)" to="(350,150)"/>
+    <wire from="(290,120)" to="(340,120)"/>
     <wire from="(290,570)" to="(290,580)"/>
     <wire from="(290,570)" to="(330,570)"/>
     <wire from="(290,80)" to="(290,100)"/>
@@ -398,24 +397,26 @@ end TCL_Generic;&#13;
     <wire from="(310,800)" to="(310,840)"/>
     <wire from="(310,800)" to="(360,800)"/>
     <wire from="(310,840)" to="(320,840)"/>
+    <wire from="(320,140)" to="(320,150)"/>
     <wire from="(320,260)" to="(320,330)"/>
     <wire from="(320,260)" to="(340,260)"/>
     <wire from="(320,330)" to="(420,330)"/>
+    <wire from="(330,130)" to="(330,150)"/>
     <wire from="(330,280)" to="(330,300)"/>
     <wire from="(330,280)" to="(340,280)"/>
     <wire from="(330,300)" to="(390,300)"/>
-    <wire from="(340,100)" to="(350,100)"/>
-    <wire from="(350,100)" to="(350,140)"/>
+    <wire from="(340,120)" to="(340,150)"/>
+    <wire from="(340,80)" to="(350,80)"/>
     <wire from="(350,600)" to="(370,600)"/>
+    <wire from="(350,80)" to="(350,150)"/>
+    <wire from="(360,170)" to="(370,170)"/>
     <wire from="(360,770)" to="(360,800)"/>
-    <wire from="(370,180)" to="(380,180)"/>
     <wire from="(380,260)" to="(400,260)"/>
     <wire from="(380,280)" to="(390,280)"/>
     <wire from="(390,280)" to="(390,300)"/>
     <wire from="(400,260)" to="(400,320)"/>
     <wire from="(400,320)" to="(420,320)"/>
     <wire from="(440,360)" to="(460,360)"/>
-    <wire from="(70,60)" to="(110,60)"/>
     <wire from="(80,260)" to="(100,260)"/>
     <wire from="(90,280)" to="(100,280)"/>
     <wire from="(90,280)" to="(90,300)"/>
