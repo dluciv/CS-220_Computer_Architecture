@@ -201,7 +201,9 @@ mc.setAttribute('data-markdown', 'slides/' + md + '.md');
 
 						mc.outerHTML = mc.outerHTML.
 							replace(/@pause@/g, '<div class="fragment" />').
-							replace(/-{pause}-/g, '<div class="fragment" />');
+							replace(/-{pause}-/g, '<div class="fragment" />').
+							replace(/(\s)---(\s)/g, '$1&mdash;$2').
+							replace(/(\s)--(\s)/g, '$1&ndash;$2');
 
 						// console.log("#######################################################");
 						// console.log(mc.outerHTML);
